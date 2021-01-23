@@ -1,18 +1,22 @@
-# Lesson 06: Conditional Statements
+# Lesson 06: Iterative Statements
 ## Summary
-1. If else condition
+1. Introduction
+1. Introduction to cycles
+1. Loop
 1. Reinforcement exercises
-1. Nested If else condition
-1. Switch case
-1. Exercises 1 and 2
+1. Use multiple variables for a loop
+1. Understanding break statements
+1. Understanding continuation statements
 
 <br>
 <br>
 
-# Lección 06: Sentencias Condicionales
+# Lección 06: Sentencias Iterativas
 ## Sumario
-1. Condición If else
-1. Ejercicios de reforzamiento 
-1. Condición If else anidada
-1. Switch case
-1. Ejercicios 1 y 2
+1. Introducción 
+1. Introducción a los ciclos
+1. Loop
+1. Ejercicios de refuerzo
+1. Usar múltiples variables para un ciclo
+1. Entendiendo sentencias de break 
+1. Entendiendo sentencias de continuación
