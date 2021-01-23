@@ -5,6 +5,9 @@
 1. [Operators](./lesson-04)
 1. [Conditional Sentences](./lesson-05)
 1. [Iterative Statements](./lesson-06)
+1. [Functions](./lesson-07)
+1. [Arrays](./lesson-08)
+1. [Structs](./lesson-09)
 
 <br>
 <br>
@@ -17,3 +20,6 @@
 1. [Operadores](./lesson-04)
 1. [Sentencias Condicionales](./lesson-05)
 1. [Sentencias Iterativas](./lesson-06)
+1. [Funciones](./lesson-07)
+1. [Arreglos](./lesson-08)
+1. [Estructuras](./lesson-09)
